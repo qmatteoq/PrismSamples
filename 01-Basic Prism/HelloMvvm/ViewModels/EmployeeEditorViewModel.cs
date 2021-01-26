@@ -10,7 +10,6 @@ using System;
 using System.Collections;
 using System.ComponentModel;
 using System.Linq;
-using System.Runtime.Serialization;
 
 namespace HelloMvvm.ViewModels
 {
@@ -24,7 +23,7 @@ namespace HelloMvvm.ViewModels
         private string _lastname;
         private bool _isBusy;
 
-        public EmployeeEditorViewModel(IEmployeeRepository employeeRepository, 
+        public EmployeeEditorViewModel(IEmployeeRepository employeeRepository,
             IRegionManager regionManager, IEventAggregator eventAggregator, IDialogService dialogService)
         {
             _employeeRepository = employeeRepository;

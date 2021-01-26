@@ -19,6 +19,5 @@ namespace HelloMvvm.Dialogs
 
             return tcs.Task;
         }
-
     }
 }
