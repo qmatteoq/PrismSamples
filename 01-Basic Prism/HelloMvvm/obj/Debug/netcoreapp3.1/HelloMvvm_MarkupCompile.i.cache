@@ -1,0 +1,20 @@
+﻿HelloMvvm
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\mpagani\Source\Samples\PrismSamples\01-Basic Prism\HelloMvvm\obj\Debug\netcoreapp3.1\
+HelloMvvm
+none
+false
+TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
+C:\Users\mpagani\Source\Samples\PrismSamples\01-Basic Prism\HelloMvvm\App.xaml
+4-984593906
+
+14-985397762
+198-372959846
+Dialogs\OkDialog.xaml;Views\EmployeeEditorView.xaml;Views\EmployeeOverviewView.xaml;Views\MainWindow.xaml;
+
+False
+

@@ -1,0 +1,28 @@
+C:\Users\mpagani\Source\repos\Step-9\HelloMvvm.OverviewModule\obj\Debug\netcoreapp3.1\HelloMvvm.OverviewModule.csprojAssemblyReference.cache
+C:\Users\mpagani\Source\repos\Step-9\HelloMvvm.OverviewModule\obj\Debug\netcoreapp3.1\HelloMvvm.OverviewModule_MarkupCompile.cache
+C:\Users\mpagani\Source\repos\Step-9\HelloMvvm.OverviewModule\obj\Debug\netcoreapp3.1\HelloMvvm.OverviewModule_MarkupCompile.lref
+C:\Users\mpagani\Source\repos\Step-9\HelloMvvm.OverviewModule\obj\Debug\netcoreapp3.1\Views\EmployeeOverviewView.g.cs
+C:\Users\mpagani\Source\repos\Step-9\HelloMvvm.OverviewModule\bin\Debug\netcoreapp3.1\HelloMvvm.OverviewModule.deps.json
+C:\Users\mpagani\Source\repos\Step-9\HelloMvvm.OverviewModule\bin\Debug\netcoreapp3.1\HelloMvvm.OverviewModule.dll
+C:\Users\mpagani\Source\repos\Step-9\HelloMvvm.OverviewModule\bin\Debug\netcoreapp3.1\HelloMvvm.OverviewModule.pdb
+C:\Users\mpagani\Source\repos\Step-9\HelloMvvm.OverviewModule\obj\Debug\netcoreapp3.1\Views\EmployeeOverviewView.baml
+C:\Users\mpagani\Source\repos\Step-9\HelloMvvm.OverviewModule\obj\Debug\netcoreapp3.1\HelloMvvm.OverviewModule.g.resources
+C:\Users\mpagani\Source\repos\Step-9\HelloMvvm.OverviewModule\obj\Debug\netcoreapp3.1\HelloMvvm.OverviewModule.AssemblyInfoInputs.cache
+C:\Users\mpagani\Source\repos\Step-9\HelloMvvm.OverviewModule\obj\Debug\netcoreapp3.1\HelloMvvm.OverviewModule.AssemblyInfo.cs
+C:\Users\mpagani\Source\repos\Step-9\HelloMvvm.OverviewModule\obj\Debug\netcoreapp3.1\HelloMvvm.OverviewModule.csproj.CoreCompileInputs.cache
+C:\Users\mpagani\Source\repos\Step-9\HelloMvvm.OverviewModule\obj\Debug\netcoreapp3.1\HelloMvvm.OverviewModule.dll
+C:\Users\mpagani\Source\repos\Step-9\HelloMvvm.OverviewModule\obj\Debug\netcoreapp3.1\HelloMvvm.OverviewModule.pdb
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\07-PRISM\02-Advanced Prism\HelloMvvm.OverviewModule\bin\Debug\netcoreapp3.1\HelloMvvm.OverviewModule.deps.json
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\07-PRISM\02-Advanced Prism\HelloMvvm.OverviewModule\bin\Debug\netcoreapp3.1\HelloMvvm.OverviewModule.dll
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\07-PRISM\02-Advanced Prism\HelloMvvm.OverviewModule\bin\Debug\netcoreapp3.1\HelloMvvm.OverviewModule.pdb
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\07-PRISM\02-Advanced Prism\HelloMvvm.OverviewModule\obj\Debug\netcoreapp3.1\HelloMvvm.OverviewModule.csprojAssemblyReference.cache
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\07-PRISM\02-Advanced Prism\HelloMvvm.OverviewModule\obj\Debug\netcoreapp3.1\Views\EmployeeOverviewView.g.cs
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\07-PRISM\02-Advanced Prism\HelloMvvm.OverviewModule\obj\Debug\netcoreapp3.1\HelloMvvm.OverviewModule_MarkupCompile.cache
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\07-PRISM\02-Advanced Prism\HelloMvvm.OverviewModule\obj\Debug\netcoreapp3.1\HelloMvvm.OverviewModule_MarkupCompile.lref
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\07-PRISM\02-Advanced Prism\HelloMvvm.OverviewModule\obj\Debug\netcoreapp3.1\Views\EmployeeOverviewView.baml
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\07-PRISM\02-Advanced Prism\HelloMvvm.OverviewModule\obj\Debug\netcoreapp3.1\HelloMvvm.OverviewModule.g.resources
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\07-PRISM\02-Advanced Prism\HelloMvvm.OverviewModule\obj\Debug\netcoreapp3.1\HelloMvvm.OverviewModule.AssemblyInfoInputs.cache
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\07-PRISM\02-Advanced Prism\HelloMvvm.OverviewModule\obj\Debug\netcoreapp3.1\HelloMvvm.OverviewModule.AssemblyInfo.cs
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\07-PRISM\02-Advanced Prism\HelloMvvm.OverviewModule\obj\Debug\netcoreapp3.1\HelloMvvm.OverviewModule.csproj.CoreCompileInputs.cache
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\07-PRISM\02-Advanced Prism\HelloMvvm.OverviewModule\obj\Debug\netcoreapp3.1\HelloMvvm.OverviewModule.dll
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\07-PRISM\02-Advanced Prism\HelloMvvm.OverviewModule\obj\Debug\netcoreapp3.1\HelloMvvm.OverviewModule.pdb

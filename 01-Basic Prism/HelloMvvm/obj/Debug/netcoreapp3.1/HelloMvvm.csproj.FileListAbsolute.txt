@@ -1,0 +1,149 @@
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\06-MVVM\00-HelloMVVM\Step-7\HelloMvvm\obj\Debug\netcoreapp3.1\HelloMvvm.csprojAssemblyReference.cache
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\06-MVVM\00-HelloMVVM\Step-7\HelloMvvm\obj\Debug\netcoreapp3.1\EmployeeEditorView.g.cs
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\06-MVVM\00-HelloMVVM\Step-7\HelloMvvm\obj\Debug\netcoreapp3.1\EmployeeOverviewView.g.cs
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\06-MVVM\00-HelloMVVM\Step-7\HelloMvvm\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\06-MVVM\00-HelloMVVM\Step-7\HelloMvvm\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\06-MVVM\00-HelloMVVM\Step-7\HelloMvvm\obj\Debug\netcoreapp3.1\HelloMvvm_MarkupCompile.cache
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\06-MVVM\00-HelloMVVM\Step-7\HelloMvvm\obj\Debug\netcoreapp3.1\HelloMvvm_MarkupCompile.lref
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\06-MVVM\00-HelloMVVM\Step-7\HelloMvvm\bin\Debug\netcoreapp3.1\HelloMvvm.exe
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\06-MVVM\00-HelloMVVM\Step-7\HelloMvvm\bin\Debug\netcoreapp3.1\HelloMvvm.deps.json
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\06-MVVM\00-HelloMVVM\Step-7\HelloMvvm\bin\Debug\netcoreapp3.1\HelloMvvm.runtimeconfig.json
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\06-MVVM\00-HelloMVVM\Step-7\HelloMvvm\bin\Debug\netcoreapp3.1\HelloMvvm.runtimeconfig.dev.json
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\06-MVVM\00-HelloMVVM\Step-7\HelloMvvm\bin\Debug\netcoreapp3.1\HelloMvvm.dll
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\06-MVVM\00-HelloMVVM\Step-7\HelloMvvm\bin\Debug\netcoreapp3.1\HelloMvvm.pdb
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\06-MVVM\00-HelloMVVM\Step-7\HelloMvvm\bin\Debug\netcoreapp3.1\Unity.Abstractions.dll
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\06-MVVM\00-HelloMVVM\Step-7\HelloMvvm\bin\Debug\netcoreapp3.1\Unity.Container.dll
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\06-MVVM\00-HelloMVVM\Step-7\HelloMvvm\obj\Debug\netcoreapp3.1\EmployeeEditorView.baml
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\06-MVVM\00-HelloMVVM\Step-7\HelloMvvm\obj\Debug\netcoreapp3.1\EmployeeOverviewView.baml
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\06-MVVM\00-HelloMVVM\Step-7\HelloMvvm\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\06-MVVM\00-HelloMVVM\Step-7\HelloMvvm\obj\Debug\netcoreapp3.1\HelloMvvm.g.resources
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\06-MVVM\00-HelloMVVM\Step-7\HelloMvvm\obj\Debug\netcoreapp3.1\HelloMvvm.AssemblyInfoInputs.cache
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\06-MVVM\00-HelloMVVM\Step-7\HelloMvvm\obj\Debug\netcoreapp3.1\HelloMvvm.AssemblyInfo.cs
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\06-MVVM\00-HelloMVVM\Step-7\HelloMvvm\obj\Debug\netcoreapp3.1\HelloMvvm.csproj.CoreCompileInputs.cache
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\06-MVVM\00-HelloMVVM\Step-7\HelloMvvm\obj\Debug\netcoreapp3.1\HelloMvvm.csproj.CopyComplete
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\06-MVVM\00-HelloMVVM\Step-7\HelloMvvm\obj\Debug\netcoreapp3.1\HelloMvvm.dll
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\06-MVVM\00-HelloMVVM\Step-7\HelloMvvm\obj\Debug\netcoreapp3.1\HelloMvvm.pdb
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\06-MVVM\00-HelloMVVM\Step-7\HelloMvvm\obj\Debug\netcoreapp3.1\HelloMvvm.genruntimeconfig.cache
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\06-MVVM\00-HelloMVVM\Step-8\HelloMvvm\obj\Debug\netcoreapp3.1\HelloMvvm.csprojAssemblyReference.cache
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\06-MVVM\00-HelloMVVM\Step-8\HelloMvvm\obj\Debug\netcoreapp3.1\EmployeeOverviewView.g.cs
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\06-MVVM\00-HelloMVVM\Step-8\HelloMvvm\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\06-MVVM\00-HelloMVVM\Step-8\HelloMvvm\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\06-MVVM\00-HelloMVVM\Step-8\HelloMvvm\obj\Debug\netcoreapp3.1\HelloMvvm_MarkupCompile.cache
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\06-MVVM\00-HelloMVVM\Step-8\HelloMvvm\obj\Debug\netcoreapp3.1\HelloMvvm_MarkupCompile.lref
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\06-MVVM\00-HelloMVVM\Step-8\HelloMvvm\obj\Debug\netcoreapp3.1\HelloMvvm.dll
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\06-MVVM\00-HelloMVVM\Step-8\HelloMvvm\obj\Debug\netcoreapp3.1\HelloMvvm.pdb
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\06-MVVM\00-HelloMVVM\Step-8\HelloMvvm\bin\Debug\netcoreapp3.1\HelloMvvm.exe
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\06-MVVM\00-HelloMVVM\Step-8\HelloMvvm\bin\Debug\netcoreapp3.1\HelloMvvm.deps.json
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\06-MVVM\00-HelloMVVM\Step-8\HelloMvvm\bin\Debug\netcoreapp3.1\HelloMvvm.runtimeconfig.json
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\06-MVVM\00-HelloMVVM\Step-8\HelloMvvm\bin\Debug\netcoreapp3.1\HelloMvvm.runtimeconfig.dev.json
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\06-MVVM\00-HelloMVVM\Step-8\HelloMvvm\bin\Debug\netcoreapp3.1\HelloMvvm.dll
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\06-MVVM\00-HelloMVVM\Step-8\HelloMvvm\bin\Debug\netcoreapp3.1\HelloMvvm.pdb
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\06-MVVM\00-HelloMVVM\Step-8\HelloMvvm\bin\Debug\netcoreapp3.1\Unity.Abstractions.dll
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\06-MVVM\00-HelloMVVM\Step-8\HelloMvvm\bin\Debug\netcoreapp3.1\Unity.Container.dll
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\06-MVVM\00-HelloMVVM\Step-8\HelloMvvm\obj\Debug\netcoreapp3.1\EmployeeEditorView.g.cs
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\06-MVVM\00-HelloMVVM\Step-8\HelloMvvm\obj\Debug\netcoreapp3.1\EmployeeEditorView.baml
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\06-MVVM\00-HelloMVVM\Step-8\HelloMvvm\obj\Debug\netcoreapp3.1\EmployeeOverviewView.baml
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\06-MVVM\00-HelloMVVM\Step-8\HelloMvvm\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\06-MVVM\00-HelloMVVM\Step-8\HelloMvvm\obj\Debug\netcoreapp3.1\HelloMvvm.g.resources
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\06-MVVM\00-HelloMVVM\Step-8\HelloMvvm\obj\Debug\netcoreapp3.1\HelloMvvm.AssemblyInfoInputs.cache
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\06-MVVM\00-HelloMVVM\Step-8\HelloMvvm\obj\Debug\netcoreapp3.1\HelloMvvm.AssemblyInfo.cs
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\06-MVVM\00-HelloMVVM\Step-8\HelloMvvm\obj\Debug\netcoreapp3.1\HelloMvvm.csproj.CoreCompileInputs.cache
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\06-MVVM\00-HelloMVVM\Step-8\HelloMvvm\obj\Debug\netcoreapp3.1\HelloMvvm.csproj.CopyComplete
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\06-MVVM\00-HelloMVVM\Step-8\HelloMvvm\obj\Debug\netcoreapp3.1\HelloMvvm.genruntimeconfig.cache
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\06-MVVM\00-HelloMVVM\Step-8\HelloMvvm\bin\Debug\netcoreapp3.1\GalaSoft.MvvmLight.dll
+C:\Users\mpagani\Source\repos\Step-8\HelloMvvm\obj\Debug\netcoreapp3.1\HelloMvvm.csprojAssemblyReference.cache
+C:\Users\mpagani\Source\repos\Step-8\HelloMvvm\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\mpagani\Source\repos\Step-8\HelloMvvm\obj\Debug\netcoreapp3.1\HelloMvvm_MarkupCompile.cache
+C:\Users\mpagani\Source\repos\Step-8\HelloMvvm\obj\Debug\netcoreapp3.1\HelloMvvm_MarkupCompile.lref
+C:\Users\mpagani\Source\repos\Step-8\HelloMvvm\obj\Debug\netcoreapp3.1\HelloMvvm.dll
+C:\Users\mpagani\Source\repos\Step-8\HelloMvvm\obj\Debug\netcoreapp3.1\HelloMvvm.pdb
+C:\Users\mpagani\Source\repos\Step-8\HelloMvvm\obj\Debug\netcoreapp3.1\Views\EmployeeEditorView.g.cs
+C:\Users\mpagani\Source\repos\Step-8\HelloMvvm\obj\Debug\netcoreapp3.1\Views\EmployeeOverviewView.g.cs
+C:\Users\mpagani\Source\repos\Step-8\HelloMvvm\obj\Debug\netcoreapp3.1\Views\MainWindow.g.cs
+C:\Users\mpagani\Source\repos\Step-8\HelloMvvm\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\mpagani\Source\repos\Step-8\HelloMvvm\obj\Debug\netcoreapp3.1\Views\EmployeeEditorView.baml
+C:\Users\mpagani\Source\repos\Step-8\HelloMvvm\obj\Debug\netcoreapp3.1\Views\EmployeeOverviewView.baml
+C:\Users\mpagani\Source\repos\Step-8\HelloMvvm\bin\Debug\netcoreapp3.1\HelloMvvm.exe
+C:\Users\mpagani\Source\repos\Step-8\HelloMvvm\bin\Debug\netcoreapp3.1\HelloMvvm.deps.json
+C:\Users\mpagani\Source\repos\Step-8\HelloMvvm\bin\Debug\netcoreapp3.1\HelloMvvm.runtimeconfig.json
+C:\Users\mpagani\Source\repos\Step-8\HelloMvvm\bin\Debug\netcoreapp3.1\HelloMvvm.runtimeconfig.dev.json
+C:\Users\mpagani\Source\repos\Step-8\HelloMvvm\bin\Debug\netcoreapp3.1\HelloMvvm.dll
+C:\Users\mpagani\Source\repos\Step-8\HelloMvvm\bin\Debug\netcoreapp3.1\HelloMvvm.pdb
+C:\Users\mpagani\Source\repos\Step-8\HelloMvvm\bin\Debug\netcoreapp3.1\CommonServiceLocator.dll
+C:\Users\mpagani\Source\repos\Step-8\HelloMvvm\bin\Debug\netcoreapp3.1\Prism.dll
+C:\Users\mpagani\Source\repos\Step-8\HelloMvvm\bin\Debug\netcoreapp3.1\Prism.Unity.Wpf.dll
+C:\Users\mpagani\Source\repos\Step-8\HelloMvvm\bin\Debug\netcoreapp3.1\Prism.Wpf.dll
+C:\Users\mpagani\Source\repos\Step-8\HelloMvvm\bin\Debug\netcoreapp3.1\System.Windows.Interactivity.dll
+C:\Users\mpagani\Source\repos\Step-8\HelloMvvm\bin\Debug\netcoreapp3.1\Unity.Abstractions.dll
+C:\Users\mpagani\Source\repos\Step-8\HelloMvvm\bin\Debug\netcoreapp3.1\Unity.Container.dll
+C:\Users\mpagani\Source\repos\Step-8\HelloMvvm\obj\Debug\netcoreapp3.1\Views\MainWindow.baml
+C:\Users\mpagani\Source\repos\Step-8\HelloMvvm\obj\Debug\netcoreapp3.1\HelloMvvm.g.resources
+C:\Users\mpagani\Source\repos\Step-8\HelloMvvm\obj\Debug\netcoreapp3.1\HelloMvvm.AssemblyInfoInputs.cache
+C:\Users\mpagani\Source\repos\Step-8\HelloMvvm\obj\Debug\netcoreapp3.1\HelloMvvm.AssemblyInfo.cs
+C:\Users\mpagani\Source\repos\Step-8\HelloMvvm\obj\Debug\netcoreapp3.1\HelloMvvm.csproj.CoreCompileInputs.cache
+C:\Users\mpagani\Source\repos\Step-8\HelloMvvm\obj\Debug\netcoreapp3.1\HelloMvvm.csproj.CopyComplete
+C:\Users\mpagani\Source\repos\Step-8\HelloMvvm\obj\Debug\netcoreapp3.1\HelloMvvm.genruntimeconfig.cache
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\07-PRISM\01-Basic Prism\HelloMvvm\bin\Debug\netcoreapp3.1\HelloMvvm.exe
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\07-PRISM\01-Basic Prism\HelloMvvm\bin\Debug\netcoreapp3.1\HelloMvvm.deps.json
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\07-PRISM\01-Basic Prism\HelloMvvm\bin\Debug\netcoreapp3.1\HelloMvvm.runtimeconfig.json
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\07-PRISM\01-Basic Prism\HelloMvvm\bin\Debug\netcoreapp3.1\HelloMvvm.runtimeconfig.dev.json
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\07-PRISM\01-Basic Prism\HelloMvvm\bin\Debug\netcoreapp3.1\HelloMvvm.dll
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\07-PRISM\01-Basic Prism\HelloMvvm\bin\Debug\netcoreapp3.1\HelloMvvm.pdb
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\07-PRISM\01-Basic Prism\HelloMvvm\bin\Debug\netcoreapp3.1\Prism.dll
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\07-PRISM\01-Basic Prism\HelloMvvm\bin\Debug\netcoreapp3.1\Prism.Unity.Wpf.dll
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\07-PRISM\01-Basic Prism\HelloMvvm\bin\Debug\netcoreapp3.1\Prism.Wpf.dll
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\07-PRISM\01-Basic Prism\HelloMvvm\bin\Debug\netcoreapp3.1\Unity.Abstractions.dll
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\07-PRISM\01-Basic Prism\HelloMvvm\bin\Debug\netcoreapp3.1\Unity.Container.dll
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\07-PRISM\01-Basic Prism\HelloMvvm\obj\Debug\netcoreapp3.1\HelloMvvm.csprojAssemblyReference.cache
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\07-PRISM\01-Basic Prism\HelloMvvm\obj\Debug\netcoreapp3.1\Views\EmployeeEditorView.g.cs
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\07-PRISM\01-Basic Prism\HelloMvvm\obj\Debug\netcoreapp3.1\Views\EmployeeOverviewView.g.cs
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\07-PRISM\01-Basic Prism\HelloMvvm\obj\Debug\netcoreapp3.1\Views\MainWindow.g.cs
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\07-PRISM\01-Basic Prism\HelloMvvm\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\07-PRISM\01-Basic Prism\HelloMvvm\obj\Debug\netcoreapp3.1\HelloMvvm_MarkupCompile.cache
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\07-PRISM\01-Basic Prism\HelloMvvm\obj\Debug\netcoreapp3.1\HelloMvvm_MarkupCompile.lref
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\07-PRISM\01-Basic Prism\HelloMvvm\obj\Debug\netcoreapp3.1\Views\EmployeeEditorView.baml
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\07-PRISM\01-Basic Prism\HelloMvvm\obj\Debug\netcoreapp3.1\Views\EmployeeOverviewView.baml
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\07-PRISM\01-Basic Prism\HelloMvvm\obj\Debug\netcoreapp3.1\Views\MainWindow.baml
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\07-PRISM\01-Basic Prism\HelloMvvm\obj\Debug\netcoreapp3.1\HelloMvvm.g.resources
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\07-PRISM\01-Basic Prism\HelloMvvm\obj\Debug\netcoreapp3.1\HelloMvvm.AssemblyInfoInputs.cache
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\07-PRISM\01-Basic Prism\HelloMvvm\obj\Debug\netcoreapp3.1\HelloMvvm.AssemblyInfo.cs
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\07-PRISM\01-Basic Prism\HelloMvvm\obj\Debug\netcoreapp3.1\HelloMvvm.csproj.CoreCompileInputs.cache
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\07-PRISM\01-Basic Prism\HelloMvvm\obj\Debug\netcoreapp3.1\HelloMvvm.csproj.CopyComplete
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\07-PRISM\01-Basic Prism\HelloMvvm\obj\Debug\netcoreapp3.1\HelloMvvm.dll
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\07-PRISM\01-Basic Prism\HelloMvvm\obj\Debug\netcoreapp3.1\HelloMvvm.pdb
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\07-PRISM\01-Basic Prism\HelloMvvm\obj\Debug\netcoreapp3.1\HelloMvvm.genruntimeconfig.cache
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\07-PRISM\01-Basic Prism\HelloMvvm\bin\Debug\netcoreapp3.1\Microsoft.Xaml.Behaviors.dll
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\07-PRISM\01-Basic Prism\HelloMvvm\obj\Debug\netcoreapp3.1\Dialogs\OkDialog.g.cs
+C:\Users\mpagani\Source\Workshops\Workshop-WPF-NETCore\src\Demos\07-PRISM\01-Basic Prism\HelloMvvm\obj\Debug\netcoreapp3.1\Dialogs\OkDialog.baml
+C:\Users\mpagani\Source\Samples\PrismSamples\01-Basic Prism\HelloMvvm\bin\Debug\netcoreapp3.1\HelloMvvm.exe
+C:\Users\mpagani\Source\Samples\PrismSamples\01-Basic Prism\HelloMvvm\bin\Debug\netcoreapp3.1\HelloMvvm.deps.json
+C:\Users\mpagani\Source\Samples\PrismSamples\01-Basic Prism\HelloMvvm\bin\Debug\netcoreapp3.1\HelloMvvm.runtimeconfig.json
+C:\Users\mpagani\Source\Samples\PrismSamples\01-Basic Prism\HelloMvvm\bin\Debug\netcoreapp3.1\HelloMvvm.runtimeconfig.dev.json
+C:\Users\mpagani\Source\Samples\PrismSamples\01-Basic Prism\HelloMvvm\bin\Debug\netcoreapp3.1\HelloMvvm.dll
+C:\Users\mpagani\Source\Samples\PrismSamples\01-Basic Prism\HelloMvvm\bin\Debug\netcoreapp3.1\HelloMvvm.pdb
+C:\Users\mpagani\Source\Samples\PrismSamples\01-Basic Prism\HelloMvvm\bin\Debug\netcoreapp3.1\Microsoft.Xaml.Behaviors.dll
+C:\Users\mpagani\Source\Samples\PrismSamples\01-Basic Prism\HelloMvvm\bin\Debug\netcoreapp3.1\Prism.dll
+C:\Users\mpagani\Source\Samples\PrismSamples\01-Basic Prism\HelloMvvm\bin\Debug\netcoreapp3.1\Prism.Unity.Wpf.dll
+C:\Users\mpagani\Source\Samples\PrismSamples\01-Basic Prism\HelloMvvm\bin\Debug\netcoreapp3.1\Prism.Wpf.dll
+C:\Users\mpagani\Source\Samples\PrismSamples\01-Basic Prism\HelloMvvm\bin\Debug\netcoreapp3.1\Unity.Abstractions.dll
+C:\Users\mpagani\Source\Samples\PrismSamples\01-Basic Prism\HelloMvvm\bin\Debug\netcoreapp3.1\Unity.Container.dll
+C:\Users\mpagani\Source\Samples\PrismSamples\01-Basic Prism\HelloMvvm\obj\Debug\netcoreapp3.1\HelloMvvm.csprojAssemblyReference.cache
+C:\Users\mpagani\Source\Samples\PrismSamples\01-Basic Prism\HelloMvvm\obj\Debug\netcoreapp3.1\Dialogs\OkDialog.g.cs
+C:\Users\mpagani\Source\Samples\PrismSamples\01-Basic Prism\HelloMvvm\obj\Debug\netcoreapp3.1\Views\EmployeeEditorView.g.cs
+C:\Users\mpagani\Source\Samples\PrismSamples\01-Basic Prism\HelloMvvm\obj\Debug\netcoreapp3.1\Views\EmployeeOverviewView.g.cs
+C:\Users\mpagani\Source\Samples\PrismSamples\01-Basic Prism\HelloMvvm\obj\Debug\netcoreapp3.1\Views\MainWindow.g.cs
+C:\Users\mpagani\Source\Samples\PrismSamples\01-Basic Prism\HelloMvvm\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\mpagani\Source\Samples\PrismSamples\01-Basic Prism\HelloMvvm\obj\Debug\netcoreapp3.1\HelloMvvm_MarkupCompile.cache
+C:\Users\mpagani\Source\Samples\PrismSamples\01-Basic Prism\HelloMvvm\obj\Debug\netcoreapp3.1\HelloMvvm_MarkupCompile.lref
+C:\Users\mpagani\Source\Samples\PrismSamples\01-Basic Prism\HelloMvvm\obj\Debug\netcoreapp3.1\Dialogs\OkDialog.baml
+C:\Users\mpagani\Source\Samples\PrismSamples\01-Basic Prism\HelloMvvm\obj\Debug\netcoreapp3.1\Views\EmployeeEditorView.baml
+C:\Users\mpagani\Source\Samples\PrismSamples\01-Basic Prism\HelloMvvm\obj\Debug\netcoreapp3.1\Views\EmployeeOverviewView.baml
+C:\Users\mpagani\Source\Samples\PrismSamples\01-Basic Prism\HelloMvvm\obj\Debug\netcoreapp3.1\Views\MainWindow.baml
+C:\Users\mpagani\Source\Samples\PrismSamples\01-Basic Prism\HelloMvvm\obj\Debug\netcoreapp3.1\HelloMvvm.g.resources
+C:\Users\mpagani\Source\Samples\PrismSamples\01-Basic Prism\HelloMvvm\obj\Debug\netcoreapp3.1\HelloMvvm.AssemblyInfoInputs.cache
+C:\Users\mpagani\Source\Samples\PrismSamples\01-Basic Prism\HelloMvvm\obj\Debug\netcoreapp3.1\HelloMvvm.AssemblyInfo.cs
+C:\Users\mpagani\Source\Samples\PrismSamples\01-Basic Prism\HelloMvvm\obj\Debug\netcoreapp3.1\HelloMvvm.csproj.CoreCompileInputs.cache
+C:\Users\mpagani\Source\Samples\PrismSamples\01-Basic Prism\HelloMvvm\obj\Debug\netcoreapp3.1\HelloMvvm.csproj.CopyComplete
+C:\Users\mpagani\Source\Samples\PrismSamples\01-Basic Prism\HelloMvvm\obj\Debug\netcoreapp3.1\HelloMvvm.dll
+C:\Users\mpagani\Source\Samples\PrismSamples\01-Basic Prism\HelloMvvm\obj\Debug\netcoreapp3.1\HelloMvvm.pdb
+C:\Users\mpagani\Source\Samples\PrismSamples\01-Basic Prism\HelloMvvm\obj\Debug\netcoreapp3.1\HelloMvvm.genruntimeconfig.cache

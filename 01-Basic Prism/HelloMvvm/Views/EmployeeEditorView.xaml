@@ -1,0 +1,33 @@
+﻿<UserControl x:Class="HelloMvvm.Views.EmployeeEditorView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:HelloMvvm"
+             mc:Ignorable="d" 
+             xmlns:prism="http://prismlibrary.com/"
+             prism:ViewModelLocator.AutoWireViewModel="True"
+             d:DesignHeight="300" d:DesignWidth="300"
+             d:DataContext="{d:DesignInstance d:Type=local:EmployeeEditorViewModel, IsDesignTimeCreatable=False}">
+
+    <UserControl.Resources>
+        <Storyboard x:Key="AddButtonAnimation">
+            <DoubleAnimation Storyboard.TargetName="AddButton"
+                             Storyboard.TargetProperty="Opacity"
+                             From="1.0" To="0.0" Duration="0:0:3"
+                             />
+        </Storyboard>
+    </UserControl.Resources>
+
+    <Grid>
+        <StackPanel>
+            <TextBlock>Firstname</TextBlock>
+            <TextBox Text="{Binding Mode=TwoWay, UpdateSourceTrigger=PropertyChanged, Path=Firstname}"></TextBox>
+            <TextBlock>Lastname</TextBlock>
+            <TextBox Text="{Binding Mode=TwoWay, UpdateSourceTrigger=PropertyChanged, Path=Lastname}"></TextBox>
+            <Separator></Separator>
+            <Button Command="{Binding AddCommand}" x:Name="AddButton">Add</Button>
+            <ProgressBar Height="20" IsIndeterminate="{Binding IsBusy}"></ProgressBar>
+        </StackPanel>
+    </Grid>
+</UserControl>
